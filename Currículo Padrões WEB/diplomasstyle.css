@@ -1,0 +1,43 @@
+/*Importações de fontes do google*/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;1,100;1,300&family=Roboto:ital,wght@1,500;1,700&family=Tilt+Prism&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@600&display=swap');
+
+body{
+	background-color: rgb(231, 205, 210);
+	height: 100vh;
+	width: 210vh;
+	position: relative;
+	font-weight: bold;
+	letter-spacing: 2px;
+    width: 850px;
+	margin-top: 20px;
+    margin-left: 100px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+    text-align:center;
+    font-size: 30px;
+    width: 900px;
+    height: 25px;
+    padding: 20px 0px 30px 0px;
+    letter-spacing: 3px;
+    background-color: #d46376;
+    color: white;
+    border: 1px solid pink;
+    margin: 50px 0px 8px 0px;
+}
+
+h2{
+    padding: 10px 0px 10px 0px;
+	text-align: center;
+	color: #d83d79;
+	font-size:larger;
+	letter-spacing: 10px;
+}
+
+.diplomas img{
+    width: 100%;
+    border: 10px double #d83d79;
+    margin: 10px 0px 8px 16px;
+}
