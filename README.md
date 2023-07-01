@@ -1,8 +1,10 @@
 <h1 align="center">Currículo Profissional</h1>
 
-## Atividade da faculdade desenvolvida na matéria de Padrões WEB com o professor Jairo Simão
+## Atividade da faculdade
+## Matéria: Padrões WEB
+## Professor: Jairo Simão
 
-**Tecnologias Utilizada:**
+**Tecnologias Utilizadas:**
 - HTML 5
 - CSS 3
 
